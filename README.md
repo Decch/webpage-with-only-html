@@ -1,1 +1,1 @@
-Simple Restaurant webpage with only HTML1
+Simple Restaurant webpage with only HTML
